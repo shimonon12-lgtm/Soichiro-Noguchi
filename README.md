@@ -21,7 +21,7 @@ currently studying for AWS Solutions Architect Associate (SAA-C03).
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [youtube-translator](https://github.com/YOUR_USERNAME/youtube-translator) | Streamlit app that fetches English YouTube subtitles and translates them into Japanese via Gemini API | Python, Streamlit, Gemini API |
+| [youtube-translater](https://github.com/YOUR_USERNAME/youtube-translater) | Streamlit app that fetches English YouTube subtitles and translates them into Japanese via Gemini API | Python, Streamlit, Gemini API |
 
 ## 📫 Contact
 
